@@ -1,0 +1,7 @@
+.card-container{
+    z-index: -2;
+}
+.rotate:hover {
+    transform: scale(1.2)  ;
+    transition: transform 1s ease-in-out; 
+}

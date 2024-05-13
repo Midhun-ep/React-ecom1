@@ -1,0 +1,10 @@
+.SideBar {
+    
+    border-radius: 30px;
+    /* background: rgb(24, 62, 250); */
+    background: linear-gradient(56deg, rgba(24, 14, 219, 1) 1%, rgba(8, 129, 243, 1) 10%, rgba(12, 20, 237, 0.6980042016806722) 16%, rgba(6, 163, 246, 1) 22%, rgba(14, 34, 234, 0.8744747899159664) 56%, rgba(8, 119, 244, 1) 62%, rgba(15, 18, 232, 0.8380602240896359) 66%, rgba(7, 127, 245, 1) 78%, rgba(13, 42, 235, 0.9164915966386554) 88%, rgba(4, 161, 249, 1) 94%, rgba(0, 212, 255, 1) 100%);
+    -webkit-background-clip: text;
+    /* For Safari */
+    -webkit-text-fill-color: transparent;
+    /* background: linear-gradient(32deg,  rgba(8, 129, 243, 1) 10%,  56%, rgba(15, 18, 232, 0.8380602240896359) 66%, rgba(7, 127, 245, 1) 78%, rgba(13, 42, 235, 0.9164915966386554) 88%,  rgba(0, 212, 255, 1) 100%); */
+}

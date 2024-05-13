@@ -1,0 +1,24 @@
+.input {
+  padding: 2px 2px;
+  border: none;
+  background: #f7f6f6;
+  outline: none;
+  margin-right: 20px;
+  border-radius: 15px;
+  /* position: relative; */
+  /* width: 14rem; */
+  /* width: 14rem; */
+
+}
+
+.nav {
+  /* background: rgb(24, 14, 219); */
+  background: rgb(24, 62, 250);
+  /* background: linear-gradient(56deg, rgba(24, 14, 219, 1) 1%, rgba(8, 129, 243, 1) 10%, rgba(12, 20, 237, 0.6980042016806722) 16%, rgba(8, 119, 244, 1) 62%, rgba(15, 18, 232, 0.8380602240896359) 66%, rgba(7, 127, 245, 1) 78%, rgba(13, 42, 235, 0.9164915966386554) 88%, rgba(4, 161, 249, 1) 94%,); */
+}
+
+.navh1 {
+  background: -webkit-linear-gradient(#ffffff, #86d6ec1d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
